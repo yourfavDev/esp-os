@@ -23,7 +23,7 @@ To build and flash this project, you'll need to have the ESP-IDF installed and c
 
 2.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/yourfavDev/esp-os.git
     cd esp-os
     ```
 
