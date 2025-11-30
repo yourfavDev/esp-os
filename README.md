@@ -58,8 +58,6 @@ The main components are:
 - **Command Handler (`command_handler`):** Parses and executes the string-based commands received by the `app_task`.
 - **Utilities (`utils`):** A collection of helper functions used across the project.
 
-For more detailed information on the components and their APIs, please refer to the source code and the technical documentation in the `CLAUDE.md` and `GEMINI.md` files.
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
