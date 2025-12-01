@@ -24,3 +24,5 @@ compile_commands.json
 
 # Log files
 *.log
+CLAUDE.md
+GEMINI.md
