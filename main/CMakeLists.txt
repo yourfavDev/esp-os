@@ -1,0 +1,10 @@
+idf_component_register(SRCS "esp-os.c"
+                           "nvs_storage.c"
+                           "wifi_manager.c"
+                           "ble_manager.c"
+                           "command_handler.c"
+                           "app_task.c"
+                           "utils.c"
+                           "minmea.c"
+                    INCLUDE_DIRS "."
+                    REQUIRES nvs_flash esp_driver_uart esp_driver_gpio esp_wifi bt esp_netif esp_event esp_timer)

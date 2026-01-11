@@ -1,0 +1,28 @@
+# Compiled executables and objects
+build/
+*.elf
+*.bin
+
+# Configuration files
+sdkconfig.old
+
+# Dependency directories
+managed_components/
+
+# ESP-IDF build system specific files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+compile_commands.json
+    
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Log files
+*.log
+CLAUDE.md
+GEMINI.md
